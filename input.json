@@ -1,0 +1,10 @@
+{
+  "maxResults": 10,
+  "enrichDetails": true,
+  "proxyConfiguration": {
+    "useApifyProxy": true,
+    "apifyProxyGroups": [
+      "RESIDENTIAL"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img">
+<title>Mobile.bg Bulgaria Car Scraper — Python example by Devil Scrapes</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#1A0B0B"/><stop offset="0.55" stop-color="#0A0606"/><stop offset="1" stop-color="#3B0A0A"/>
+</linearGradient>
+<radialGradient id="glow" cx="0.18" cy="0.5" r="0.45">
+<stop offset="0" stop-color="#DC2626" stop-opacity="0.45"/><stop offset="1" stop-color="#DC2626" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="tile"><rect x="80" y="60" width="240" height="240" rx="44"/></clipPath>
+</defs>
+<rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+<rect width="1280" height="360" rx="24" fill="url(#glow)"/>
+<rect x="0" y="352" width="1280" height="8" fill="#DC2626"/>
+<g clip-path="url(#tile)"><svg x="80" y="60" width="240" height="240" viewBox="0 0 400 400"><rect width="400" height="400" fill="#DC2626"/>
+
+  
+  <path d="M 30 0 L 145 0 Q 120 35 80 80 Q 55 38 30 0 Z" fill="#0A0606"/>
+  <path d="M 255 0 L 370 0 Q 345 38 320 80 Q 280 35 255 0 Z" fill="#0A0606"/>
+
+  
+  <circle cx="200" cy="230" r="115" fill="#FFF8E7" stroke="#0A0606" stroke-width="4"/>
+
+  
+  
+  <g transform="translate(200, 230)">
+    
+    <rect x="-68" y="-58" width="136" height="6" rx="3" ry="3" fill="#0057A8"/>
+    
+    <text x="0" y="-22"
+          font-family="Helvetica, Arial, sans-serif"
+          font-size="42"
+          font-weight="900"
+          fill="#0057A8"
+          text-anchor="middle"
+          dominant-baseline="central">mobile</text>
+    
+    <text x="0" y="24"
+          font-family="Helvetica, Arial, sans-serif"
+          font-size="42"
+          font-weight="900"
+          fill="#003F7A"
+          text-anchor="middle"
+          dominant-baseline="central">.bg</text>
+    
+    <rect x="-68" y="54" width="136" height="6" rx="3" ry="3" fill="#0A0606"/>
+  </g></svg></g>
+<rect x="80" y="60" width="240" height="240" rx="44" fill="none" stroke="#FFF8E7" stroke-opacity="0.18" stroke-width="2"/>
+<text x="400" y="138" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="#FFF8E7">Mobile.bg Bulgaria Car Scraper</text>
+<text x="400" y="196" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" fill="#E7DCCB">Bulgarian used-car ads from Mobile.bg as JSON and CSV: EUR</text><text x="400" y="232" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" fill="#E7DCCB">and lev prices, km, specs, photos.</text>
+<rect x="400" y="262" width="104" height="40" rx="20" fill="#DC2626"/>
+<text x="452.0" y="289" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#FFF8E7" text-anchor="middle">Python</text>
+<text x="520" y="289" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" fill="#B9AA97">Apify Actor example · Devil Scrapes</text>
+</svg>
